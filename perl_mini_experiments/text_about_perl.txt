@@ -1,0 +1,12 @@
+Excerpt from "The joy of Perl" (ANDREW LEONARD, 1998)
+
+Larry Wall likes to call Perl a "humble" language. In his
+soft-spoken voice, he describes Perl as if it were a meek,
+obeisant servant, existing only to "let you bend it to your uses."
+The legions of Perl hackers who swarm the Web are less modest:
+Perl, they declare, is the indispensable duct tape, or glue,
+that holds the entire Web together...
+
+Wall and Perl are all about messy imperfection and fuzzy creativity.
+After all, duct tape is valuable not because it offers a perfect
+solution to your plumbing problems, but because it gets the job done.
