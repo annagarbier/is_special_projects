@@ -10,5 +10,5 @@ This folder contains tutorial exercises and mini-experiments using
 *   [Perl String](https://www.perltutorial.org/perl-string/)
 *   [Perl one-liners](https://github.com/learnbyexample/Command-line-text-processing/blob/master/perl_the_swiss_knife.md)
 
-# Experiments:
-*   `exp_regularize.pl` - word replacement for pairs like "went" -> "goed", "feet" -> "foots"
+## Experiments:
+*   `exp_regularize.pl`: does word replacement for pairs like "went" -> "goed", "feet" -> "foots"
