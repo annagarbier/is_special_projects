@@ -5,10 +5,8 @@ use warnings;
 use Path::Tiny;
 use autodie; # Die if problem reading or writing a file
 
-# Establish file names
+# Open file to read
 my $file_in = path("text_irregular_sentence.txt");
-
-# Open files to read and write, respectively
 my $file_in_handle = $file_in->openr_utf8();
 
 # Read in the entire contents of file
